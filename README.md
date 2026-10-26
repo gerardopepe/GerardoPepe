@@ -7,6 +7,7 @@ I turn high-dimensional biological data into reproducible, decision-ready result
 - 🔬 Tenure-track researcher and **Lead of the Computational Hub** at the University of Rome Tor Vergata
 - 🧬 Freelance consultant since 2020, building **clinical/diagnostic pipelines**: cfDNA-based NIPT, paternity testing, and a salivary-microRNA predictive tool for endometriosis
 - 🇬🇧 Visiting researcher at Barts Cancer Institute, Queen Mary University of London (2025): multi-omics workflows for driver mutations and tumor microenvironment
+- 🎓 Instructor of Bioinformatics, Biological Networks and High-Throughput Technologies courses (BSc/MSc); supervisor of 50+ BSc/MSc theses and co-supervisor of 2 PhD theses
 - 📄 26 peer-reviewed publications, including web tools in *Nucleic Acids Research* and *Journal of Molecular Biology*
 
 ---
@@ -26,6 +27,8 @@ I turn high-dimensional biological data into reproducible, decision-ready result
 |---|---|---|
 | **PANDA** | Pan-cancer data analysis web tool | *J. Mol. Biol.* 2025 · [link](https://panda.bio.uniroma2.it) |
 | **BRIO** | Web server for RNA sequence and structure motif scanning | *Nucleic Acids Res.* 2021 · co-first author · [link](http://brio.bio.uniroma2.it) |
+| **CRAB** | Finds enriched RBP-binding sequence and structure motifs in RNA, using 16,000+ motifs from CLIP data across 7 species | Web server · *manuscript under review* · [link](https://crab.bio.uniroma2.it) |
+| **Drug-specific genes (DSGs)** | Leverages DSGs to identify sensitizers for drug-resistant cancer cell lines | *Cell Death Discov.* 2026 · first author |
 | **Drug response prediction** | ML models of cancer drug response from drug-specific informative genes; identification of sensitizers for resistant cell lines | *Sci. Rep.* 2019 · *Cell Death Discov.* 2026 |
 | **GRN meta-analysis** | Gene regulatory network inference across datasets to find key regulators of cardiovascular diseases | *Int. J. Mol. Sci.* 2024 |
 
